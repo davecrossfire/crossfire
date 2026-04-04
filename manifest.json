@@ -1,1 +1,6 @@
-[{"Path":"dummy.txt","ServerId":""}]
+[
+  { 
+    "Path": "Gamefiles/huge_update.pak", 
+    "ServerId": "FastGameServer" 
+  }
+]
