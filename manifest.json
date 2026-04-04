@@ -1,6 +1,5 @@
 [
-  { 
-    "Path": "Gamefiles/huge_update.pak", 
-    "ServerId": "FastGameServer" 
-  }
+  { "Path": "crossfire.exe" },
+  { "Path": "images/background.png" },
+  { "Path": "maps/desert.bsp" }
 ]
