@@ -1,3 +1,6 @@
 [
-  { "Path": "Meir.txt" },
+  { 
+    "Path": "Meir.txt",
+    "ServerUrl": "https://raw.githubusercontent.com/davecrossfire/update/main/Meir.txt"
+  }
 ]
