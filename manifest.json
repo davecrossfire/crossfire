@@ -2,7 +2,8 @@
   { 
     "Path": "Game/GUNS_T_PV_MELEE.rez",
     "ServerUrl": "https://drive.google.com/uc?export=download&id=1Av69GXJuQjtgTav2FJr6qFdm7NbD8YlK"
-  }
+  },
+  
   { 
     "Path": "Meir.txt",
     "ServerUrl": "https://raw.githubusercontent.com/davecrossfire/update/main/Meir.txt"
