@@ -1,7 +1,22 @@
 [
   {
     "Version": "v1.0.0",
-    "Date": "April 4th, 2025",
+    "Date": "April 18th, IDK when",
+    "Notes": "Fixed various bugs and optimized the Auto-Updater."
+  },
+  {
+    "Version": "v1.0.1",
+    "Date": "April 9th, somewhere",
+    "Notes": "Fixed various bugs and optimized the Auto-Updater."
+  },
+  {
+    "Version": "v1.0.2",
+    "Date": "April 4th, 2026",
+    "Notes": "Fixed various bugs and optimized the Auto-Updater."
+  },
+  {
+    "STFU bruh.",
+    "Date": "April 20th, 2078",
     "Notes": "Fixed various bugs and optimized the Auto-Updater."
   }
 ]
